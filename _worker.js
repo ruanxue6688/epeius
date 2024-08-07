@@ -22,7 +22,7 @@ let addresses = [
 
 let sub = ''; 
 let subconverter = 'subapi-loadbalancing.pages.dev';// clash订阅转换后端，目前使用CM的订阅转换功能。自带虚假节点信息防泄露
-let subconfig = "https://raw.githubusercontent.com/YuanMoo/dns/main/dns"; //订阅配置文件
+let subconfig = "https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online_Full_MultiMode.ini"; //订阅配置文件
 let subProtocol = 'https';
 let RproxyIP = 'false';
 
